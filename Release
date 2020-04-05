@@ -1,0 +1,8 @@
+Origin: Sediment Repo
+Label: Sediment Repo
+Codename: ios
+Suite: stable
+Version: 1.0
+Architecture: iphoneos-arm
+Components: main
+Description: The Sedimnet Repo
