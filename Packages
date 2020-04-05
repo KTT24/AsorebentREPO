@@ -8,7 +8,7 @@ Filename: deb/com.asorobent.sedative.deb
 Size: 152032
 MD5sum: 00d1492c72803b3d650abcd8f19bf078
 SHA1: ac6c5e7a1594c485445e68fffe6252f9000db6e9
-SHA256: 81eaf9624a09637be6037e5f2f5e10cef7ccadaf0143885402d1c84bd223ebf2
+SHA256: 6a61ea116f06b6c96e172e5d23c5517a35be963be664ae677f08fdccc65ae84b
 Section: Packaging
 Description: A new kind of Package Manger
 Author: Seative Team
