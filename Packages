@@ -3,7 +3,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Sedative Team
 Installed-Size: 444
-Depends: org.swift.libswift (>= 5.0.0), firmware (>= 12.0)
+Depends: firmware (>= 12.0)
 Filename: deb/com.asorobent.sedative.deb
 Size: 152032
 MD5sum: 00d1492c72803b3d650abcd8f19bf078
