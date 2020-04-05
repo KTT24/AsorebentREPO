@@ -1,14 +1,14 @@
-Package: co.dynastic.tsssaver
-Version: 1.2.0
+Package: com.asorobent.sedative
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Sedative Team
 Installed-Size: 444
-Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
-Filename: deb/co.dynastic.TSSsaver.deb
+Depends: org.swift.libswift (>= 5.0.0), firmware (>= 12.0)
+Filename: deb/com.asorobent.sedative.deb
 Size: 152032
-MD5sum: fe2e43efaa390e4b81f100175ad1cddb
-SHA1: e669009b17ce74000712124861e4fc0f22d31386
-SHA256: 483f16008726c8882984f014565b921c443d4a39ebc036e1ada981584c7e0c59
+MD5sum: 00d1492c72803b3d650abcd8f19bf078
+SHA1: ac6c5e7a1594c485445e68fffe6252f9000db6e9
+SHA256: 81eaf9624a09637be6037e5f2f5e10cef7ccadaf0143885402d1c84bd223ebf2
 Section: Packaging
 Description: A new kind of Package Manger
 Author: Seative Team
