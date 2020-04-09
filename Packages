@@ -6,9 +6,9 @@ Installed-Size: 444
 Depends: org.swift.libswift (>= 5.0), firmware (>= 12.0)
 Filename: deb/com.sediment.fusee.deb
 Size: 37804
-MD5sum: 90bc537a55840183219a4cd2d3874508
-SHA1: 4a5f40c21ab7162b4176b8d3284871083afae4a3
-SHA256: 2d5e819260f2cf932b3426442c89058987fe8dca6d307e1aadbe2fd195a55ae5
+MD5sum: 5d04bf260d258aea932bbf592235801
+SHA1: 6e2ed922fb31383e0eb6e60356a837ece9f38115
+SHA256: c399869fd6edca5f3b75350eef07acf04af8696185fb2d1651139d157a57975b
 Section: Packaging
 Description: A new kind of Package Manger
 Author: Fusee Team
