@@ -4,8 +4,8 @@
     "itemCornerRadius":10,
     "banners":[  
         {  
-            "url":"https://github.com/KTT24/dynamic-repo/blob/master/header.jpg?raw=true",
-            "title":"Seditave",
+            "url":"https://i.imgur.com/DlX1Sjc.png",
+            "title":"Fusee",
             "package":"com.sediment.fusee",
             "hideShadow":false
          }
