@@ -1,104 +1,79 @@
 {
-   "minVersion": "0.1",
-   "class": "DepictionTabView",
-   "tintColor": "#eb3d34",
-   "headerImage": "https://i.imgur.com/qJzSjvS.jpg",
-   "tabs": [
-      {
-         "tabname": "Details",
-         "class": "DepictionStackView",
-         "tintColor": "#eb3d34",
-         "views": [
-            {
-               "class": "DepictionSubheaderView",
-               "useBoldText": true,
-               "useBottomMargin": false,
-               "title": "Fusee"
-            },
-            {
-               "class": "DepictionMarkdownView",
-               "markdown": "<p>Package Description<\/p>",
-               "useRawFormat": true
-            },
-            {
-               "class": "DepictionSubheaderView",
-               "useBoldText": true,
-               "useBottomMargin": false,
-               "title": ""
-            },
-            {
-               "class": "DepictionScreenshotsView",
-               "itemCornerRadius": 6,
-               "itemSize": "{160, 284.44444444444}",
-               "screenshots": [
-                  {
-                     "accessibilityText": "Screenshot",
-                     "url": "https://github.com/KTT24/SedimentRepo/blob/master/15007730-DF75-4A08-965F-D615DAACA769.jpeg?raw=true",
-                  }
-               ]
-            },
-            {
-               "class": "DepictionSeparatorView"
-            },
-            {
-               "class": "DepictionSubheaderView",
-               "useBoldText": true,
-               "useBottomMargin": false,
-               "title": "Information"
-            },
-            {
-               "class": "DepictionTableTextView",
-               "title": "Author",
-               "text": "Fusee Team"
-            },
-            {
-               "class": "DepictionTableTextView",
-               "title": "Version",
-               "text": "0.0.1"
-            },
-            {
-               "class": "DepictionTableTextView",
-               "title": "Price",
-               "text": "Free"
-            },
-            {
-               "class": "DepictionSpacerView",
-               "spacing": 16
-            },
-            {
-               "class": "DepictionStackView",
-               "views": [
-                  {
-                     "class": "DepictionTableButtonView",
-                     "title": "Support",
-                     "action": "https://ktt24.github.io/SedimentRepo/",
-                     "openExternal": true
-                  }
-               ]
-            },
-            {
-               "class": "DepictionSpacerView",
-               "spacing": 16
-            }
-         ]
-      },
-      {
-         "tabname": "Changelog",
-         "class": "DepictionStackView",
-         "tintColor": "#eb3d34",
-         "views": [
-            {
-               "class": "DepictionSubheaderView",
-               "useBoldText": true,
-               "useBottomMargin": false,
-               "title": "0.0.1"
-            },
-            {
-               "class": "DepictionMarkdownView",
-               "markdown": "<ul>\n<li>Version Changes<\/li>\n<\/ul>",
-               "useRawFormat": true
-            }
-         ]
-      }
-   ]
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Fusee",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "test",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://github.com/KTT24/SedimentRepo/blob/master/15007730-DF75-4A08-965F-D615DAACA769.jpeg?raw=true"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "test",
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "0.0.1",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "04-10-2020",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Fusee Team",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "headerImage": "https://i.imgur.com/qJzSjvS.jpg",
+    "tintColor": "#eb4034"
 }
