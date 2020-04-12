@@ -30,7 +30,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "",
+                    "markdown": "#Fast and stable\r\nWe strive to to make a lighting fast while being stable and safe. Meant for a fast and easy workflow to help the use not frustrate the uset\r\n\r\n#For You and only you\r\nFlareix has been design and built for the human intention and nothing else. It is intuitive while remaining simple and clean. Made for your next action and what you want to do, and not you having to modify your actions around the app.\r\n\r\n# Community \r\nWe will make a community driven open source modern APT client for all people to unite. This is our mission!",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -74,6 +74,6 @@
     
     "minVersion": "0.1",
     "class": "DepictionTabView",
-    "headerImage": "https://github.com/KTT24/SedimentRepo/blob/master/15007730-DF75-4A08-965F-D615DAACA769.jpeg?raw=true",
+    "headerImage": "https://github.com/KTT24/SedimentRepo/blob/master/header.jpg?raw=true",
     "tintColor": "#eb4034"
 }
