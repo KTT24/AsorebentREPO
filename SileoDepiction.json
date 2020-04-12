@@ -5,7 +5,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Fusee",
+                    "title": "Flareix",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -30,7 +30,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "test",
+                    "markdown": "",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -74,6 +74,6 @@
     
     "minVersion": "0.1",
     "class": "DepictionTabView",
-    "headerImage": "https://i.imgur.com/qJzSjvS.jpg",
+    "headerImage": "",
     "tintColor": "#eb4034"
 }
