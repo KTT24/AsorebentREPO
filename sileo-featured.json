@@ -5,8 +5,8 @@
     "banners":[  
         {  
             "url":"https://i.imgur.com/qJzSjvS.jpg",
-            "title":"Fusee",
-            "package":"com.sediment.fusee",
+            "title":"Umber",
+            "package":"com.flareix.flareix",
             "hideShadow":false
          }
     ]
